@@ -26,11 +26,11 @@ public class main {
         System.out.println("Frete comum - MÓVEL:");
         System.out.println(pe.calculaFrete());
 
-        /*
+
         pe.setTipoFrete(freteExpresso);
 
         System.out.println("Frete expresso - MÓVEL:");
         System.out.println(pe.calculaFrete());
-        */
+
     }
 }
